@@ -9,5 +9,5 @@ if name == "Raenita":
     else:
         print ("You will win the lottery\n")
 else:
-    print ("Your name is unlucky\n")
+    print ("Your name is unlucky.\n")
     print ("you will lose your winning lottery ticket\n")
