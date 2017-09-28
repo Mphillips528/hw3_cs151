@@ -29,9 +29,3 @@ Output: "What is your name?"
  expected output:
  "Your name is unlucky"
  "you will lose your winning lottery ticket"
-
-"You will lose your job"
-
-"You will get a divorse"
-
-"You will be in a serious accident within the next 5 years"
