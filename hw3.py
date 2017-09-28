@@ -11,5 +11,3 @@ if name == "Raenita":
 else:
     print ("Your name is unlucky\n")
     print ("you will lose your winning lottery ticket\n")
-
-    print ("You will be in a serious accident within the next 5 years\n")
