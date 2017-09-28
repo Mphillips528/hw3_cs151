@@ -1,0 +1,37 @@
+Test cases:
+
+1. Output: "What is your name"
+input: Raenita
+    expected output : "How old are you"
+    expected input : 25
+        expected output: "You will win the lottery"
+
+2. Output: "What is your name"
+ input: Raenita
+    expected output: "How old are you"
+        expected input: 32
+        expected output: "You will be happily married"
+
+3. Output: "What is your name"
+ input: Raenita
+    expected output: "How old are you"
+        expected input: 50
+        expected output: "You will live a long life"
+
+4. Output: "What is your name"
+ input: Raenita
+    expected output "How old are you"
+        expected input: 66
+        expected output: "You will win the lottery"
+
+Output: "What is your name?"
+ input: Matt
+ expected output:
+ "Your name is unlucky"
+ "you will lose your winning lottery ticket"
+
+"You will lose your job"
+
+"You will get a divorse"
+
+"You will be in a serious accident within the next 5 years"

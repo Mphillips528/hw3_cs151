@@ -1,0 +1,12 @@
+1. Output "This is a program that will tell your fortune based on your name and other information"
+2. prompt the user to enter their name
+3. If the user's name is Raenita, prompt the user to enter their age.
+    a. If the user's age is greater than or equal to 30 and 49 or younger, output "You will be happily married"
+    b. otherwise, if the users name is greater than or equal to 50 and 65 or younger, output "You will live a long life"
+    c. otherwise, output "You will win the lottery"
+4. Otherwise, output:
+Your name is unlucky
+you will lose your winning lottery ticket
+You will lose your job
+You will get a divorse
+You will be in a serious accident within the next 5 years
